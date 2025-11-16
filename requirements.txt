@@ -1,0 +1,7 @@
+mlflow==2.8.1
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+google-cloud-storage

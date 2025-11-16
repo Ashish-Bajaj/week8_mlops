@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# MLflow local DB
+mlflow.db
+mlruns/
+
+# GCP keys
+*.json
+
+# OS
+.DS_Store
