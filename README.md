@@ -27,7 +27,7 @@ Artifacts are stored in **GCS**, and the MLflow tracking server runs on the VM.
 ---
 
 ## 📂 Project Structure
-week8/
+week8_mlops/
 ├── train.py # Main training script with MLflow logging
 ├── poisoning.py # Helper to generate label-poisoned datasets
 ├── requirements.txt # Python dependencies (MLflow, sklearn, etc.)
